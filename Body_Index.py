@@ -3,7 +3,6 @@ height = float(input("Write your height: "))
 age = float(input("Write your age: "))
 body_index = weight/(height**2)
 
-
 if age < 18:
     print("You're too young for this")
 else:
